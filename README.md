@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2010<br>📚 I'm currently hustling in the Software World <br>🎯 Goal: Building high-performance, scalable, and secure applications using cutting-edge technologies like microservices, cloud computing, and artificial intelligence.  <br>🎲 Fun fact: I started coding when I was 11.</p>
+<p align="left">✨ Creating bugs since forever<br>📚 I'm currently hustling in the Software World <br>🎯 Goal: Building high-performance, scalable, and secure applications using cutting-edge technologies like microservices, cloud computing, and artificial intelligence.  <br>🎲 Fun fact: I started coding when I was 11.</p>
 
 ###
 
