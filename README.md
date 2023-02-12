@@ -37,7 +37,6 @@
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jira/jira-original.svg" height="40" width="52" alt="jest logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jquery/jquery-original.svg" height="40" width="52" alt="jest logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kotlin/kotlin-original.svg" height="40" width="52" alt="jest logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kotlin/kotlin-original.svg" height="40" width="52" alt="jest logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kubernetes/kubernetes-plain.svg" height="40" width="52" alt="jest logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" height="40" width="52" alt="jest logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="jest logo"  />
