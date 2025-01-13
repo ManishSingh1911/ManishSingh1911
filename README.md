@@ -1,5 +1,5 @@
 <h1 align="left">Hello everyone 👋 I am Manish!</h1>
-<h3 align="left">A Full Stack Code Visionary and Sports Enthusiast, passionately driven by innovation, continuous learning, and crafting seamless digital experiences.</h3>
+<h3 align="left">A Full Stack Coder and Sports Enthusiast, passionately driven by innovation, continuous learning, and crafting seamless digital experiences.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">✨ I am currently learning React JS and Graph QL<br>📚 Lets talk <strong>Java, Spring Boot, Microservices, Databases, Kafka, and Kubernetes</strong> <br>📫 How to reach me: manishsingh.dev19@gmail.com <br>🎲 Fun fact about me: I started coding when I was 11. When I am not coding, I am a part time cricket expert and presenter.</p>
+<p align="left">✨ I am currently learning React JS and Graph QL<br>📚 Lets talk <strong>Java, Spring Boot, Microservices, Databases, Kafka, and Kubernetes</strong> <br> 🗒️ Sometimes I doodle my thoughts on [Notion](https://www.notion.so/) <br> 📫 How to reach me: manishsingh.dev19@gmail.com <br>🎲 Fun fact about me: I started coding when I was 11. When I am not coding, I am a part time cricket expert and presenter.</p>
 
 ###
 
