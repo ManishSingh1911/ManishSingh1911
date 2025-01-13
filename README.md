@@ -13,11 +13,11 @@
 
 ###
 
-<p align="left">✨ I am currently learning React JS and Graph QL<br>📚 Ask me about <strong>Java, Spring Boot, Microservices, Databases, Kafka, Docker and Kubernetes</strong> <br>📫 How to reach me: manishsingh.dev19@gmail.com <br>🎲 Fun fact about me: I started coding when I was 11. When I am not coding, I am a part time cricket expert and presenter.</p>
+<p align="left">✨ I am currently learning React JS and Graph QL<br>📚 Lets talk <strong>Java, Spring Boot, Microservices, Databases, Kafka, and Kubernetes</strong> <br>📫 How to reach me: manishsingh.dev19@gmail.com <br>🎲 Fun fact about me: I started coding when I was 11. When I am not coding, I am a part time cricket expert and presenter.</p>
 
 ###
 
-<h2 align="left">I work with</h2>
+<h2 align="left">Technologies I work with</h2>
 
 ###
 
