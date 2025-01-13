@@ -1,8 +1,8 @@
-<h1 align="left">Hello everyone 👋 Hope you are doing great!</h1>
+<h1 align="left">Hello everyone 👋 I am Manish!</h1>
 
 ###
 
-<p align="left">My name is Manish and I'm a Self-taught Full Stack Java Developer, from India</p>
+<p align="left"> I'm a Self-taught Full Stack Java Developer, from Hyderabad, India</p>
 
 ###
 
