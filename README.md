@@ -1,5 +1,5 @@
 <h1 align="left">Hello everyone 👋 I am Manish!</h1>
-<h3 align="left">A Full Stack Visionary and Code Enthusiast, passionately driven by innovation, continuous learning, and crafting seamless digital experiences.</h3>
+<h3 align="left">A Full Stack Code Visionary and Sports Enthusiast, passionately driven by innovation, continuous learning, and crafting seamless digital experiences.</h3>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I am currently learning React JS and Graph QL<br>📚 Ask me about <strong>Java, Spring Boot, Microservices, Databases, Kafka, Docker and Kubernetes</strong> <br>📫 How to reach me: manishsingh.dev19@gmail.com <br>🎲 Fun fact about me: I started coding when I was 11. When I am not coding, I am a part time sports expert and presenter</p>
+<p align="left">✨ I am currently learning React JS and Graph QL<br>📚 Ask me about <strong>Java, Spring Boot, Microservices, Databases, Kafka, Docker and Kubernetes</strong> <br>📫 How to reach me: manishsingh.dev19@gmail.com <br>🎲 Fun fact about me: I started coding when I was 11. When I am not coding, I am a part time cricket expert and presenter.</p>
 
 ###
 
@@ -22,7 +22,6 @@
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/angularjs/angularjs-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="typescript logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/apachekafka/apachekafka-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/azure/azure-original.svg" height="40" width="52" alt="nextjs logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="storybook logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg" height="40" width="52" alt="nodejs logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" height="40" width="52" alt="nestjs logo"  />
@@ -41,12 +40,10 @@
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" height="40" width="52" alt="jest logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="jest logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" height="40" width="52" alt="jest logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/neo4j/neo4j-original.svg" height="40" width="52" alt="jest logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="jest logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/npm/npm-original-wordmark.svg" height="40" width="52" alt="jest logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/oracle/oracle-original.svg" height="40" width="52" alt="jest logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="jest logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/rails/rails-original-wordmark.svg" height="40" width="52" alt="jest logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original-wordmark.svg" height="40" width="52" alt="jest logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/selenium/selenium-original.svg" height="40" width="52" alt="jest logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original.svg" height="40" width="52" alt="jest logo"  />
@@ -54,7 +51,13 @@
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/unix/unix-original.svg" height="40" width="52" alt="jest logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/visualstudio/visualstudio-plain-wordmark.svg" height="40" width="52" alt="jest logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original-wordmark.svg" height="40" width="52" alt="jest logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original-wordmark.svg" height="40" width="52" alt="jest logo"  />
+  
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ManishSingh1911&show_icons=true&locale=en&layout=compact" alt="ManishSingh1911" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ManishSingh1911&show_icons=true&locale=en" alt="ManishSingh1911" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ManishSingh1911&" alt="ManishSingh1911" /></p>
   
   
 </div>
