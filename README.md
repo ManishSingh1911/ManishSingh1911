@@ -25,11 +25,9 @@
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/angularjs/angularjs-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="typescript logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/apachekafka/apachekafka-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="storybook logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg" height="40" width="52" alt="nodejs logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" height="40" width="52" alt="nestjs logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" height="40" width="52" alt="jest logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg" height="40" width="52" alt="jest logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/googlecloud/googlecloud-original.svg" height="40" width="52" alt="jest logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg" height="40" width="52" alt="jest logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/intellij/intellij-original-wordmark.svg" height="40" width="52" alt="jest logo"  />
@@ -48,7 +46,6 @@
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/oracle/oracle-original.svg" height="40" width="52" alt="jest logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="jest logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original-wordmark.svg" height="40" width="52" alt="jest logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/selenium/selenium-original.svg" height="40" width="52" alt="jest logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original.svg" height="40" width="52" alt="jest logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg" height="40" width="52" alt="jest logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/unix/unix-original.svg" height="40" width="52" alt="jest logo"  />
