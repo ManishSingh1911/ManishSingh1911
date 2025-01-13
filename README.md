@@ -1,6 +1,9 @@
 <h1 align="left">Hello everyone 👋 I am Manish!</h1>
 <h3 align="left">A Full Stack Code Visionary and Sports Enthusiast, passionately driven by innovation, continuous learning, and crafting seamless digital experiences.</h3>
 
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
+
+
 ###
 
 
@@ -57,7 +60,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ManishSingh1911&show_icons=true&locale=en" alt="ManishSingh1911" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ManishSingh1911&" alt="ManishSingh1911" /></p>
   
   
 </div>
