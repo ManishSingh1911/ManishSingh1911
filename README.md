@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I am currently learning React JS and Graph QL<br>📚 Ask me about <strong>Java, Spring Boot, Microservices, Databases, Kafka, Docker and Kubernetes</strong> <br>📫 How to reach me: manishsingh.dev19@gmail.com <br>🎲 Fun fact about me: I started coding when I was 11.</p>
+<p align="left">✨ I am currently learning React JS and Graph QL<br>📚 Ask me about <strong>Java, Spring Boot, Microservices, Databases, Kafka, Docker and Kubernetes</strong> <br>📫 How to reach me: manishsingh.dev19@gmail.com <br>🎲 Fun fact about me: I started coding when I was 11. When I am not coding, I am a part time sports expert and presenter</p>
 
 ###
 
