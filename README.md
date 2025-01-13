@@ -3,7 +3,6 @@
 
 ###
 
-<p align="left"> I'm a Self-taught Full Stack Java Developer, from Hyderabad, India</p>
 
 ###
 
